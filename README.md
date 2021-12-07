@@ -1,6 +1,7 @@
-﻿# The story is about a robot  was packaged and set for disposal due to a malfunction during the manufacturing process.
+﻿# K.2.1.1  Escape 
+## The story is about a robot  was packaged and set for disposal due to a malfunction during the manufacturing process.
 
-## K.2.1.1 was packaged into a box matching its size to be shipped out of town where it will be destroyed. The switchback road caused K.2.1.1 to be activated.
+### K.2.1.1 was packaged into a box matching its size to be shipped out of town where it will be destroyed. The switchback road caused K.2.1.1 to be activated.
 
 ### When he got out of the box he read the "burn/destroy" symbol.  After he got out of the box he jumped into the forest near the road.
 
@@ -14,6 +15,10 @@
 
 ### Some of them will help him , some  will destroyed him and the other will transform him.
 
-# Let see if he will make it or not .
+## Let see if he will make it or not .
+                              K.2.1.1
+
+![K.2.1.1](images/k.2.1.1.jpg)
+
 
 
